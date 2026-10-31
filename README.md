@@ -20,9 +20,8 @@
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="<img width="1100" height="608" alt="Screenshot 2026-10-31 230737" src="https://github.com/user-attachments/assets/2568729f-ac7e-4183-af7c-528b4f4e8d83" />
-"/>
-</p>
+  <img src="<img width="1100" height="608" alt="Screenshot 2026-10-31 230737" src="https://github.com/user-attachments/assets/cbee0b2f-7f0d-4867-a56a-e2ccfe21fd19" />
+
 
 ---
 
