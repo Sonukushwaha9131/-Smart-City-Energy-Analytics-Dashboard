@@ -22,9 +22,6 @@
 ![Smart City Energy Analytics Dashboard](dashboard-preview.png.png)
 ---
 
-## 🎥 Project Demo
-
-[![Watch Project Demo](./dashboard-preview.png)](./smart_city_energy_log_video.mp4)
 
 **▶️ Click the image to watch the complete project walkthrough.**
 
