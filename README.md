@@ -24,6 +24,7 @@
 
 [▶️ Watch Project Demo](./assets/smart_city_energy_log_video.mp4)
 
+
 ## 🚀 About
 
 **Smart City Energy Analytics** is an interactive Microsoft Excel dashboard built to analyze electricity consumption, generation, cost, efficiency, temperature, and operational alerts across a simulated smart-city environment.
