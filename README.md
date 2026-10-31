@@ -19,11 +19,10 @@
 
 ## 🖼️ Dashboard Preview
 
-<p align="center">
-  <img src="<img width="1100" height="608" alt="Screenshot 2026-10-31 230737" src="https://github.com/user-attachments/assets/cbee0b2f-7f0d-4867-a56a-e2ccfe21fd19" />
-
-
+![Smart City Energy Analytics Dashboard](dashboard-preview.png.png)
 ---
+
+[▶️ Watch Project Demo](./assets/smart_city_energy_log_video.mp4)
 
 ## 🚀 About
 
